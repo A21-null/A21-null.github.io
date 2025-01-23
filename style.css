@@ -1,0 +1,38 @@
+*{
+    --dark:#393736;
+    color: white;
+}
+
+
+body{
+    background: var(--dark);
+}
+
+
+#botones>button{
+    margin: 10px;
+}
+
+#contenedorCursos>div{
+    margin: 20px;
+}
+
+#horario{
+    display: none;
+}
+
+
+.asignatura{
+    text-align: center;
+}
+
+.curso{
+    border-radius: 0.375rem;
+    width: 20em;
+    padding: 10px;
+}
+
+.titulo{
+    font-weight: bold;
+    text-align: center;
+}
