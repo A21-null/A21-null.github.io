@@ -17,18 +17,22 @@ for entry in data:
             "Interactivas": {
                 "Dia": [-1, -1, -1, -1, -1, -1, -1, -1],
                 "Inicio": [-1, -1, -1, -1, -1, -1, -1, -1],
-                "Fin": [-1, -1, -1, -1, -1, -1, -1, -1]
+                "Fin": [-1, -1, -1, -1, -1, -1, -1, -1],
+                "Aula": ["", "", "", "", "", "", "", ""]
             },
-            "Expositivas": {
-                "Dia": [-1, -1, -1, -1, -1, -1, -1, -1],
-                "Inicio": [-1, -1, -1, -1, -1, -1, -1, -1],
-                "Fin": [-1, -1, -1, -1, -1, -1, -1, -1]
+            "Expositivas":{
+                "Dia":[],
+                "Inicio":[],
+                "Fin":[],
+                "Aula":[]
             },
-            "Seminarios": {
-                "Dia": [-1, -1, -1, -1, -1, -1, -1, -1],
-                "Inicio": [-1, -1, -1, -1, -1, -1, -1, -1],
-                "Fin": [-1, -1, -1, -1, -1, -1, -1, -1]
-            }
+            "Seminarios":{
+                "Dia":[],
+                "Inicio":[],
+                "Fin":[],
+                "Aula":[]
+            },
+
         }
 
     grupo_index = entry["Grupo"] - 1
@@ -39,15 +43,18 @@ for entry in data:
         reformatted_data[asignatura_id]["Interactivas"]["Dia"][grupo_index] = entry["Día"]
         reformatted_data[asignatura_id]["Interactivas"]["Inicio"][grupo_index] = entry["Inicio"]
         reformatted_data[asignatura_id]["Interactivas"]["Fin"][grupo_index] = entry["Fin"]
+        reformatted_data[asignatura_id]["Interactivas"]["Aula"][grupo_index] = entry["Aula"]
     elif tipo == "E":
-        reformatted_data[asignatura_id]["Expositivas"]["Dia"][grupo_index] = entry["Día"]
-        reformatted_data[asignatura_id]["Expositivas"]["Inicio"][grupo_index] = entry["Inicio"]
-        reformatted_data[asignatura_id]["Expositivas"]["Fin"][grupo_index] = entry["Fin"]
+        reformatted_data[asignatura_id]["Expositivas"]["Dia"].append(entry["Día"])
+        reformatted_data[asignatura_id]["Expositivas"]["Inicio"].append(entry["Inicio"])
+        reformatted_data[asignatura_id]["Expositivas"]["Fin"].append(entry["Fin"])
+        reformatted_data[asignatura_id]["Expositivas"]["Aula"].append(entry["Aula"])
     elif tipo == "S":
-        reformatted_data[asignatura_id]["Seminarios"]["Dia"][grupo_index] = entry["Día"]
-        reformatted_data[asignatura_id]["Seminarios"]["Inicio"][grupo_index] = entry["Inicio"]
-        reformatted_data[asignatura_id]["Seminarios"]["Fin"][grupo_index] = entry["Fin"]
+        reformatted_data[asignatura_id]["Seminarios"]["Dia"].append(entry["Día"])
+        reformatted_data[asignatura_id]["Seminarios"]["Inicio"].append(entry["Inicio"])
+        reformatted_data[asignatura_id]["Seminarios"]["Fin"].append(entry["Fin"])
+        reformatted_data[asignatura_id]["Seminarios"]["Aula"].append(entry["Aula"])
 
 # Save the reformatted data to a new JSON file
 with open('data.json', 'w') as file:
-    json.dump(reformatted_data, file, indent=2)
+    json.dump(reformatted_data, file, ensure_ascii=False, indent=2)
