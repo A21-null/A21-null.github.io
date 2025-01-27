@@ -9,7 +9,7 @@ reformatted_data = {}
 
 # Iterate through each entry in the original data
 for entry in data:
-    asignatura_id = entry["Código"].split('_')[1]
+    asignatura_id = entry["Código"]
     if asignatura_id not in reformatted_data:
         reformatted_data[asignatura_id] = {
             "Nombre": entry["Nombre"],

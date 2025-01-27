@@ -1,5 +1,5 @@
 {
-  "ASIGNATURA_5": {
+  "5": {
     "Nombre": "Programaci\u00f3n I",
     "Curso": 1,
     "Interactivas": {
@@ -99,7 +99,7 @@
       ]
     }
   },
-  "ASIGNATURA_3": {
+  "3": {
     "Nombre": "Matem\u00e1tica Discreta",
     "Curso": 1,
     "Interactivas": {
@@ -199,7 +199,7 @@
       ]
     }
   },
-  "ASIGNATURA_2": {
+  "2": {
     "Nombre": "\u00c1lgebra",
     "Curso": 1,
     "Interactivas": {
@@ -299,7 +299,7 @@
       ]
     }
   },
-  "ASIGNATURA_4": {
+  "4": {
     "Nombre": "Sistemas Digitales",
     "Curso": 1,
     "Interactivas": {
@@ -399,7 +399,7 @@
       ]
     }
   },
-  "ASIGNATURA_1": {
+  "1": {
     "Nombre": "Fundamentos de Matem\u00e1ticas",
     "Curso": 1,
     "Interactivas": {
@@ -499,7 +499,7 @@
       ]
     }
   },
-  "ASIGNATURA_6": {
+  "6": {
     "Nombre": "Fundamentos Tecnol\u00f3gicos y F\u00edsicos",
     "Curso": 1,
     "Interactivas": {
@@ -599,7 +599,7 @@
       ]
     }
   },
-  "ASIGNATURA_10": {
+  "10": {
     "Nombre": "C\u00e1lculo y An\u00e1lisis Num\u00e9rico",
     "Curso": 1,
     "Interactivas": {
@@ -699,7 +699,7 @@
       ]
     }
   },
-  "ASIGNATURA_9": {
+  "9": {
     "Nombre": "Programaci\u00f3n II",
     "Curso": 1,
     "Interactivas": {
@@ -799,7 +799,7 @@
       ]
     }
   },
-  "ASIGNATURA_8": {
+  "8": {
     "Nombre": "Fundamentos de Computadores",
     "Curso": 1,
     "Interactivas": {
@@ -899,7 +899,7 @@
       ]
     }
   },
-  "ASIGNATURA_7": {
+  "7": {
     "Nombre": "Estad\u00edstica",
     "Curso": 1,
     "Interactivas": {
@@ -999,7 +999,7 @@
       ]
     }
   },
-  "ASIGNATURA_13": {
+  "13": {
     "Nombre": "Algoritmos y Estructuras de Datos",
     "Curso": 2,
     "Interactivas": {
@@ -1099,7 +1099,7 @@
       ]
     }
   },
-  "ASIGNATURA_12": {
+  "12": {
     "Nombre": "Bases de Datos I",
     "Curso": 2,
     "Interactivas": {
@@ -1199,7 +1199,7 @@
       ]
     }
   },
-  "ASIGNATURA_15": {
+  "15": {
     "Nombre": "Redes",
     "Curso": 2,
     "Interactivas": {
@@ -1299,7 +1299,7 @@
       ]
     }
   },
-  "ASIGNATURA_16": {
+  "16": {
     "Nombre": "Programaci\u00f3n Orientada a Objetos",
     "Curso": 2,
     "Interactivas": {
@@ -1399,7 +1399,7 @@
       ]
     }
   },
-  "ASIGNATURA_14": {
+  "14": {
     "Nombre": "Sistemas Operativos I",
     "Curso": 2,
     "Interactivas": {
@@ -1499,7 +1499,7 @@
       ]
     }
   },
-  "ASIGNATURA_17": {
+  "17": {
     "Nombre": "Bases de Datos II",
     "Curso": 2,
     "Interactivas": {
@@ -1599,7 +1599,7 @@
       ]
     }
   },
-  "ASIGNATURA_20": {
+  "20": {
     "Nombre": "Computaci\u00f3n Gr\u00e1fica",
     "Curso": 2,
     "Interactivas": {
@@ -1699,7 +1699,7 @@
       ]
     }
   },
-  "ASIGNATURA_18": {
+  "18": {
     "Nombre": "Sistemas Operativos II",
     "Curso": 2,
     "Interactivas": {
@@ -1799,7 +1799,7 @@
       ]
     }
   },
-  "ASIGNATURA_19": {
+  "19": {
     "Nombre": "Arquitectura de Computadores",
     "Curso": 2,
     "Interactivas": {
@@ -1899,7 +1899,7 @@
       ]
     }
   },
-  "ASIGNATURA_21": {
+  "21": {
     "Nombre": "Dise\u00f1o de Software",
     "Curso": 2,
     "Interactivas": {
@@ -1999,7 +1999,7 @@
       ]
     }
   },
-  "ASIGNATURA_11": {
+  "11": {
     "Nombre": "Gesti\u00f3n Financiera de Empresas",
     "Curso": 2,
     "Interactivas": {
@@ -2099,7 +2099,7 @@
       ]
     }
   },
-  "ASIGNATURA_26": {
+  "26": {
     "Nombre": "Ingenier\u00eda del Software",
     "Curso": 3,
     "Interactivas": {
@@ -2199,7 +2199,7 @@
       ]
     }
   },
-  "ASIGNATURA_27": {
+  "27": {
     "Nombre": "Computaci\u00f3n Distribuida",
     "Curso": 3,
     "Interactivas": {
@@ -2299,7 +2299,7 @@
       ]
     }
   },
-  "ASIGNATURA_29": {
+  "29": {
     "Nombre": "Inteligencia Artificial",
     "Curso": 3,
     "Interactivas": {
@@ -2399,7 +2399,7 @@
       ]
     }
   },
-  "ASIGNATURA_22": {
+  "22": {
     "Nombre": "Teor\u00eda de Aut\u00f3matas y Lenguajes Formales",
     "Curso": 3,
     "Interactivas": {
@@ -2499,7 +2499,7 @@
       ]
     }
   },
-  "ASIGNATURA_23": {
+  "23": {
     "Nombre": "Administraci\u00f3n de Sistemas y Redes",
     "Curso": 3,
     "Interactivas": {
@@ -2599,7 +2599,7 @@
       ]
     }
   },
-  "ASIGNATURA_30": {
+  "30": {
     "Nombre": "Seguridad de la Informaci\u00f3n",
     "Curso": 3,
     "Interactivas": {
@@ -2699,7 +2699,7 @@
       ]
     }
   },
-  "ASIGNATURA_24": {
+  "24": {
     "Nombre": "Desarrollo de Aplicaciones Web",
     "Curso": 3,
     "Interactivas": {
@@ -2799,7 +2799,7 @@
       ]
     }
   },
-  "ASIGNATURA_28": {
+  "28": {
     "Nombre": "Compiladores e Int\u00e9rpretes",
     "Curso": 3,
     "Interactivas": {
@@ -2899,7 +2899,7 @@
       ]
     }
   },
-  "ASIGNATURA_31": {
+  "31": {
     "Nombre": "Ciberseguridad",
     "Curso": 3,
     "Interactivas": {
@@ -2999,7 +2999,7 @@
       ]
     }
   },
-  "ASIGNATURA_25": {
+  "25": {
     "Nombre": "Gesti\u00f3n de Proyectos Inform\u00e1ticos",
     "Curso": 3,
     "Interactivas": {
@@ -3099,7 +3099,7 @@
       ]
     }
   },
-  "ASIGNATURA_41": {
+  "41": {
     "Nombre": "Sistemas Inteligentes",
     "Curso": 4,
     "Interactivas": {
@@ -3199,7 +3199,7 @@
       ]
     }
   },
-  "ASIGNATURA_42": {
+  "42": {
     "Nombre": "Dise\u00f1o y Administraci\u00f3n de Redes",
     "Curso": 4,
     "Interactivas": {
@@ -3299,7 +3299,7 @@
       ]
     }
   },
-  "ASIGNATURA_36": {
+  "36": {
     "Nombre": "Fundamentos de Sistemas Paralelos",
     "Curso": 4,
     "Interactivas": {
@@ -3399,7 +3399,7 @@
       ]
     }
   },
-  "ASIGNATURA_32": {
+  "32": {
     "Nombre": "Interacci\u00f3n Persona-Ordenador",
     "Curso": 4,
     "Interactivas": {
@@ -3499,7 +3499,7 @@
       ]
     }
   },
-  "ASIGNATURA_44": {
+  "44": {
     "Nombre": "Computaci\u00f3n en la Nube",
     "Curso": 4,
     "Interactivas": {
@@ -3599,7 +3599,7 @@
       ]
     }
   },
-  "ASIGNATURA_39": {
+  "39": {
     "Nombre": "Almacenes y Miner\u00eda de Datos",
     "Curso": 4,
     "Interactivas": {
@@ -3699,7 +3699,7 @@
       ]
     }
   },
-  "ASIGNATURA_37": {
+  "37": {
     "Nombre": "Visualizaci\u00f3n Avanzada",
     "Curso": 4,
     "Interactivas": {
@@ -3799,7 +3799,7 @@
       ]
     }
   },
-  "ASIGNATURA_33": {
+  "33": {
     "Nombre": "Ingenier\u00eda de Computadores",
     "Curso": 4,
     "Interactivas": {
@@ -3899,7 +3899,7 @@
       ]
     }
   },
-  "ASIGNATURA_43": {
+  "43": {
     "Nombre": "Ingenier\u00eda de Servicios",
     "Curso": 4,
     "Interactivas": {
@@ -3999,7 +3999,7 @@
       ]
     }
   },
-  "ASIGNATURA_40": {
+  "40": {
     "Nombre": "Conocimiento y Razonamiento Autom\u00e1tico",
     "Curso": 4,
     "Interactivas": {
@@ -4099,7 +4099,7 @@
       ]
     }
   },
-  "ASIGNATURA_38": {
+  "38": {
     "Nombre": "Calidad de los Sistemas de Informaci\u00f3n",
     "Curso": 4,
     "Interactivas": {
@@ -4199,7 +4199,7 @@
       ]
     }
   },
-  "ASIGNATURA_46": {
+  "46": {
     "Nombre": "Programaci\u00f3n de Arquitecturas Emergentes",
     "Curso": 4,
     "Interactivas": {
@@ -4299,7 +4299,7 @@
       ]
     }
   },
-  "ASIGNATURA_49": {
+  "49": {
     "Nombre": "Aprendizaje Autom\u00e1tico",
     "Curso": 4,
     "Interactivas": {
@@ -4399,7 +4399,7 @@
       ]
     }
   },
-  "ASIGNATURA_45": {
+  "45": {
     "Nombre": "Computaci\u00f3n Ubicua",
     "Curso": 4,
     "Interactivas": {
@@ -4499,7 +4499,7 @@
       ]
     }
   },
-  "ASIGNATURA_47": {
+  "47": {
     "Nombre": "Gesti\u00f3n de Informaci\u00f3n no estructurada",
     "Curso": 4,
     "Interactivas": {
@@ -4599,7 +4599,7 @@
       ]
     }
   },
-  "ASIGNATURA_48": {
+  "48": {
     "Nombre": "Modelos y T\u00e9cnicas de Optimizaci\u00f3n",
     "Curso": 4,
     "Interactivas": {

@@ -1,0 +1,402 @@
+{
+  "ASIGNATURA_1": {
+    "asignatura": "Fundamentos de Matemáticas",
+    "curso": 1,
+    "num_grupos": 5,
+    "creditos": 6,
+    "cuatrimestre": 1,
+    "tipo": "FB"
+  },
+  "ASIGNATURA_2": {
+    "asignatura": "Álgebra",
+    "curso": 1,
+    "num_grupos": 5,
+    "creditos": 6,
+    "cuatrimestre": 1,
+    "tipo": "FB"
+  },
+  "ASIGNATURA_3": {
+    "asignatura": "Matemática Discreta",
+    "curso": 1,
+    "num_grupos": 5,
+    "creditos": 6,
+    "cuatrimestre": 1,
+    "tipo": "FB"
+  },
+  "ASIGNATURA_4": {
+    "asignatura": "Sistemas Digitales",
+    "curso": 1,
+    "num_grupos": 5,
+    "creditos": 6,
+    "cuatrimestre": 1,
+    "tipo": "FB"
+  },
+  "ASIGNATURA_5": {
+    "asignatura": "Programación I",
+    "curso": 1,
+    "num_grupos": 5,
+    "creditos": 6,
+    "cuatrimestre": 1,
+    "tipo": "FB"
+  },
+  "ASIGNATURA_6": {
+    "asignatura": "Fundamentos Tecnológicos y Físicos de la Informática",
+    "curso": 1,
+    "num_grupos": 5,
+    "creditos": 6,
+    "cuatrimestre": 2,
+    "tipo": "FB"
+  },
+  "ASIGNATURA_7": {
+    "asignatura": "Estadística",
+    "curso": 1,
+    "num_grupos": 5,
+    "creditos": 6,
+    "cuatrimestre": 2,
+    "tipo": "FB"
+  },
+  "ASIGNATURA_8": {
+    "asignatura": "Fundamentos de Computadores",
+    "curso": 1,
+    "num_grupos": 5,
+    "creditos": 6,
+    "cuatrimestre": 2,
+    "tipo": "FB"
+  },
+  "ASIGNATURA_9": {
+    "asignatura": "Programación II",
+    "curso": 1,
+    "num_grupos": 5,
+    "creditos": 6,
+    "cuatrimestre": 2,
+    "tipo": "FB"
+  },
+  "ASIGNATURA_10": {
+    "asignatura": "Cálculo y Análisis Numérico",
+    "curso": 1,
+    "num_grupos": 5,
+    "creditos": 6,
+    "cuatrimestre": 2,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_11": {
+    "asignatura": "Gestión Financiera de Empresas",
+    "curso": 2,
+    "num_grupos": 4,
+    "creditos": 6,
+    "cuatrimestre": 1,
+    "tipo": "FB"
+  },
+  "ASIGNATURA_12": {
+    "asignatura": "Bases de Datos I",
+    "curso": 2,
+    "num_grupos": 4,
+    "creditos": 6,
+    "cuatrimestre": 1,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_13": {
+    "asignatura": "Algoritmos y Estructuras de Datos",
+    "curso": 2,
+    "num_grupos": 4,
+    "creditos": 6,
+    "cuatrimestre": 1,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_14": {
+    "asignatura": "Sistemas Operativos I",
+    "curso": 2,
+    "num_grupos": 4,
+    "creditos": 6,
+    "cuatrimestre": 1,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_15": {
+    "asignatura": "Redes",
+    "curso": 2,
+    "num_grupos": 4,
+    "creditos": 6,
+    "cuatrimestre": 1,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_16": {
+    "asignatura": "Programación Orientada a Objetos",
+    "curso": 2,
+    "num_grupos": 4,
+    "creditos": 6,
+    "cuatrimestre": 2,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_17": {
+    "asignatura": "Bases de Datos II",
+    "curso": 2,
+    "num_grupos": 4,
+    "creditos": 4.5,
+    "cuatrimestre": 2,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_18": {
+    "asignatura": "Sistemas Operativos II",
+    "curso": 2,
+    "num_grupos": 4,
+    "creditos": 4.5,
+    "cuatrimestre": 2,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_19": {
+    "asignatura": "Arquitectura de Computadores",
+    "curso": 2,
+    "num_grupos": 4,
+    "creditos": 4.5,
+    "cuatrimestre": 2,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_20": {
+    "asignatura": "Computación Gráfica",
+    "curso": 2,
+    "num_grupos": 4,
+    "creditos": 4.5,
+    "cuatrimestre": 2,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_21": {
+    "asignatura": "Diseño de Software",
+    "curso": 2,
+    "num_grupos": 4,
+    "creditos": 6,
+    "cuatrimestre": 2,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_22": {
+    "asignatura": "Teoría de Autómatas y Lenguajes Formales",
+    "curso": 3,
+    "num_grupos": 4,
+    "creditos": 6,
+    "cuatrimestre": 1,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_23": {
+    "asignatura": "Administración de Sistemas y Redes",
+    "curso": 3,
+    "num_grupos": 4,
+    "creditos": 6,
+    "cuatrimestre": 1,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_24": {
+    "asignatura": "Desarrollo de Aplicaciones Web",
+    "curso": 3,
+    "num_grupos": 4,
+    "creditos": 6,
+    "cuatrimestre": 1,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_25": {
+    "asignatura": "Gestión de Proyectos Informáticos",
+    "curso": 3,
+    "num_grupos": 4,
+    "creditos": 4.5,
+    "cuatrimestre": 1,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_26": {
+    "asignatura": "Ingeniería del Software",
+    "curso": 3,
+    "num_grupos": 4,
+    "creditos": 12,
+    "cuatrimestre": 1,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_27": {
+    "asignatura": "Computación Distribuida",
+    "curso": 3,
+    "num_grupos": 4,
+    "creditos": 6,
+    "cuatrimestre": 2,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_28": {
+    "asignatura": "Compiladores e Intérpretes",
+    "curso": 3,
+    "num_grupos": 4,
+    "creditos": 4.5,
+    "cuatrimestre": 2,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_29": {
+    "asignatura": "Inteligencia Artificial",
+    "curso": 3,
+    "num_grupos": 4,
+    "creditos": 6,
+    "cuatrimestre": 2,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_30": {
+    "asignatura": "Seguridad de la Información",
+    "curso": 3,
+    "num_grupos": 4,
+    "creditos": 4.5,
+    "cuatrimestre": 2,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_31": {
+    "asignatura": "Ciberseguridad",
+    "curso": 3,
+    "num_grupos": 4,
+    "creditos": 4.5,
+    "cuatrimestre": 2,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_32": {
+    "asignatura": "Interacción Persona-Ordenador",
+    "curso": 4,
+    "num_grupos": 4,
+    "creditos": 6,
+    "cuatrimestre": 1,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_33": {
+    "asignatura": "Ingeniería de Computadores",
+    "curso": 4,
+    "num_grupos": 4,
+    "creditos": 6,
+    "cuatrimestre": 1,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_34": {
+    "asignatura": "Trabajo Fin de Grado",
+    "curso": 4,
+    "num_grupos": 1,
+    "creditos": 12,
+    "cuatrimestre": 2,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_35": {
+    "asignatura": "Prácticas Externas",
+    "curso": 4,
+    "num_grupos": 1,
+    "creditos": 9,
+    "cuatrimestre": 2,
+    "tipo": "OB"
+  },
+  "ASIGNATURA_36": {
+    "asignatura": "Fundamentos de Sistemas Paralelos",
+    "curso": 4,
+    "num_grupos": 4,
+    "creditos": 4.5,
+    "cuatrimestre": 1,
+    "tipo": "OP"
+  },
+  "ASIGNATURA_37": {
+    "asignatura": "Visualización Avanzada",
+    "curso": 4,
+    "num_grupos": 4,
+    "creditos": 4.5,
+    "cuatrimestre": 1,
+    "tipo": "OP"
+  },
+  "ASIGNATURA_38": {
+    "asignatura": "Calidad de los Sistemas de Información",
+    "curso": 4,
+    "num_grupos": 4,
+    "creditos": 4.5,
+    "cuatrimestre": 1,
+    "tipo": "OP"
+  },
+  "ASIGNATURA_39": {
+    "asignatura": "Almacenes y Minería de Datos",
+    "curso": 4,
+    "num_grupos": 4,
+    "creditos": 4.5,
+    "cuatrimestre": 1,
+    "tipo": "OP"
+  },
+  "ASIGNATURA_40": {
+    "asignatura": "Conocimiento y Razonamiento Automático",
+    "curso": 4,
+    "num_grupos": 4,
+    "creditos": 4.5,
+    "cuatrimestre": 1,
+    "tipo": "OP"
+  },
+  "ASIGNATURA_41": {
+    "asignatura": "Sistemas Inteligentes",
+    "curso": 4,
+    "num_grupos": 4,
+    "creditos": 4.5,
+    "cuatrimestre": 1,
+    "tipo": "OP"
+  },
+  "ASIGNATURA_42": {
+    "asignatura": "Diseño y Administración de Redes",
+    "curso": 4,
+    "num_grupos": 4,
+    "creditos": 4.5,
+    "cuatrimestre": 1,
+    "tipo": "OP"
+  },
+  "ASIGNATURA_43": {
+    "asignatura": "Ingeniería de Servicios",
+    "curso": 4,
+    "num_grupos": 4,
+    "creditos": 4.5,
+    "cuatrimestre": 1,
+    "tipo": "OP"
+  },
+  "ASIGNATURA_44": {
+    "asignatura": "Computación en la Nube",
+    "curso": 4,
+    "num_grupos": 4,
+    "creditos": 4.5,
+    "cuatrimestre": 1,
+    "tipo": "OP"
+  },
+  "ASIGNATURA_45": {
+    "asignatura": "Computación Ubicua",
+    "curso": 4,
+    "num_grupos": 4,
+    "creditos": 4.5,
+    "cuatrimestre": 2,
+    "tipo": "OP"
+  },
+  "ASIGNATURA_46": {
+    "asignatura": "Programación de Arquitecturas Emergentes",
+    "curso": 4,
+    "num_grupos": 4,
+    "creditos": 4.5,
+    "cuatrimestre": 2,
+    "tipo": "OP"
+  },
+  "ASIGNATURA_47": {
+    "asignatura": "Gestión de Información no estructurada",
+    "curso": 4,
+    "num_grupos": 4,
+    "creditos": 4.5,
+    "cuatrimestre": 2,
+    "tipo": "OP"
+  },
+  "ASIGNATURA_48": {
+    "asignatura": "Modelos y Técnicas de Optimización",
+    "curso": 4,
+    "num_grupos": 4,
+    "creditos": 4.5,
+    "cuatrimestre": 2,
+    "tipo": "OP"
+  },
+  "ASIGNATURA_49": {
+    "asignatura": "Aprendizaje Automático",
+    "curso": 4,
+    "num_grupos": 4,
+    "creditos": 4.5,
+    "cuatrimestre": 2,
+    "tipo": "OP"
+  },
+  "ASIGNATURA_50": {
+    "asignatura": "Ingeniería del Software",
+    "curso": 3,
+    "num_grupos": 4,
+    "creditos": 12,
+    "cuatrimestre": 2,
+    "tipo": "OB"
+  }
+}
