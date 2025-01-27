@@ -342,7 +342,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 
-function update_horario_current() {
+async function update_horario_current() {
     const nombre = document.getElementById('nombre').value;
     const apellidos = document.getElementById('apellidos').value;
     horario_current.nombre = nombre;
